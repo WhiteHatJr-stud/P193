@@ -3,59 +3,8 @@ Microsoft Windows [Version 10.0.19044.1826]
 
 C:\Users\hp>ipconfig
 
-Windows IP Configuration
-
-
-Ethernet adapter Ethernet:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . :
-
-Wireless LAN adapter Local Area Connection* 9:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . :
-
-Wireless LAN adapter Local Area Connection* 10:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . :
-
-Wireless LAN adapter Wi-Fi:
-
-   Connection-specific DNS Suffix  . :
-   IPv6 Address. . . . . . . . . . . : 
-   Temporary IPv6 Address. . . . . . : 2405:201:1000:8036:e9e9:327c:b75d:320f
-   Link-local IPv6 Address . . . . . : fe80::1dcf:fef7:91cd:b417%13
-   IPv4 Address. . . . . . . . . . . : 
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : fe80::aada:cff:fed3:e9c9%13
-                                       
-
 C:\Users\hp>ping www.google.com
-
-Pinging www.google.com [2404:6800:4009:82f::2004] with 32 bytes of data:
-Reply from 2404:6800:4009:82f::2004: time=29ms
-Reply from 2404:6800:4009:82f::2004: time=34ms
-Reply from 2404:6800:4009:82f::2004: time=29ms
-Reply from 2404:6800:4009:82f::2004: time=27ms
-
-Ping statistics for 2404:6800:4009:82f::2004:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 27ms, Maximum = 34ms, Average = 29ms
 
 C:\Users\hp>ping www.whitehatjr.com
 
-Pinging www.whitehatjr.com.cdn.cloudflare.net [2606:4700:8d72:a284:6ed7:65:b99c:b18b] with 32 bytes of data:
-Reply from 2606:4700:8d72:a284:6ed7:65:b99c:b18b: time=175ms
-Reply from 2606:4700:8d72:a284:6ed7:65:b99c:b18b: time=71ms
-Reply from 2606:4700:8d72:a284:6ed7:65:b99c:b18b: time=25ms
-Reply from 2606:4700:8d72:a284:6ed7:65:b99c:b18b: time=25ms
-
-Ping statistics for 2606:4700:8d72:a284:6ed7:65:b99c:b18b:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 25ms, Maximum = 175ms, Average = 74ms
-
-C:\Users\hp>
+Removed all the results after getting this project checked by the teacher.
